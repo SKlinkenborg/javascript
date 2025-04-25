@@ -92,5 +92,6 @@ function playGame() {
     console.log(determineWinner(userChoice, computerChoice));
   }
 
+// Player! Enter your choice here!
 const userInput = 'bomb'
  playGame()
